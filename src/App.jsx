@@ -19,6 +19,7 @@ function App() {
 
         {error && <div className="error-box">{error}</div>}
 
+
         {loading && (
           <div className="loading-box">
             <span className="spinner-lg" />
