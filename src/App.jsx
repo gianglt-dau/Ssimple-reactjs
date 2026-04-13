@@ -11,7 +11,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>???? Weather App</h1>
-        <p className="subtitle">Du bao thoi tiet mien phi - Powered by Open-Meteo</p>
+        <p className="subtitle">Dự báo thời tiết - Powered by Open-Meteo</p>
       </header>
 
       <main className="app-main">
